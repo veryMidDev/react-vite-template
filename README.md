@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and Biome.js for coding convention along with some eslint rules.
+Please set your default formatter to Biome to prevent indentation confliction when committing.
 
 Currently, two official plugins are available:
 
